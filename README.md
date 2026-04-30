@@ -13,14 +13,17 @@ Welcome to **Socio Plus**, a production-ready, MERN-stack social media applicati
 
 *(To display these images, save your screenshots into an `assets` folder in the root directory and name them as shown below).*
 
+### The Login & Authentication
+
+ <img width="1919" height="902" alt="Screenshot 2026-04-30 161407" src="https://github.com/user-attachments/assets/e926c15d-ee93-430f-9f42-81b76304ee56" />
+
 ### The Feed
-![Feed UI](./assets/feed.png)
+
+<img width="1919" height="901" alt="Screenshot 2026-04-30 161356" src="https://github.com/user-attachments/assets/72682c33-fc8b-4441-81b8-5ea670858d72" />
 
 ### The Profile
-![Profile UI](./assets/profile.png)
 
-### Login & Authentication
-![Login UI](./assets/login.png)
+ <img width="1907" height="902" alt="Screenshot 2026-04-30 161343" src="https://github.com/user-attachments/assets/f393fc55-9e67-4c17-9cde-d3ae254de065" />
 
 ## 🚀 Tech Stack
 - **Frontend:** React.js, Tailwind CSS, Framer Motion, Axios, Socket.io-client.
@@ -68,3 +71,5 @@ Welcome to **Socio Plus**, a production-ready, MERN-stack social media applicati
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page or submit a pull request.
+
+
